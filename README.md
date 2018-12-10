@@ -6,7 +6,8 @@ This is a data visualization project created as part of Complex Data Visualizati
 * Summary of countries that spend and recieve the most
 * Map of bilateral remittance flows in 2017
 
-Visualization were created using 
-[Tableau Software](https://www.tableau.com/)
 
-Check out my Tableu profile [here](https://public.tableau.com/profile/weronika3582#!/)
+Visualization were created using 
+[Tableau Software](https://www.tableau.com/).
+
+Check out my Tableu profile [here](https://public.tableau.com/profile/weronika3582#!/).
